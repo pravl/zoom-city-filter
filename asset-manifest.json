@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zoom-city-filter/static/css/main.1eeb85fa.chunk.css",
+    "main.js": "/zoom-city-filter/static/js/main.94e72406.chunk.js",
+    "main.js.map": "/zoom-city-filter/static/js/main.94e72406.chunk.js.map",
+    "runtime-main.js": "/zoom-city-filter/static/js/runtime-main.27ab068a.js",
+    "runtime-main.js.map": "/zoom-city-filter/static/js/runtime-main.27ab068a.js.map",
+    "static/js/2.5842578a.chunk.js": "/zoom-city-filter/static/js/2.5842578a.chunk.js",
+    "static/js/2.5842578a.chunk.js.map": "/zoom-city-filter/static/js/2.5842578a.chunk.js.map",
+    "index.html": "/zoom-city-filter/index.html",
+    "precache-manifest.43f216f6b21bad64886c2e5e052e4b22.js": "/zoom-city-filter/precache-manifest.43f216f6b21bad64886c2e5e052e4b22.js",
+    "service-worker.js": "/zoom-city-filter/service-worker.js",
+    "static/css/main.1eeb85fa.chunk.css.map": "/zoom-city-filter/static/css/main.1eeb85fa.chunk.css.map",
+    "static/js/2.5842578a.chunk.js.LICENSE.txt": "/zoom-city-filter/static/js/2.5842578a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ab068a.js",
+    "static/js/2.5842578a.chunk.js",
+    "static/css/main.1eeb85fa.chunk.css",
+    "static/js/main.94e72406.chunk.js"
+  ]
+}
